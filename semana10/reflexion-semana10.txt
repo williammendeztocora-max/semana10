@@ -1,0 +1,8 @@
+Las metodologías ágiles permiten organizar el trabajo comunitario de forma clara y flexible.
+El backlog ayuda a priorizar lo más importante según las necesidades reales.
+Las entregas iterativas facilitan la mejora continua y la transparencia.
+La automatización reduce errores y ahorra tiempo en tareas repetitivas.
+Herramientas como Telegram permiten una comunicación rápida y accesible.
+Esto fortalece la participación ciudadana y el seguimiento colectivo.
+Además, la trazabilidad en Git permite saber qué se hizo y cuándo.
+Todo esto mejora la confianza y el trabajo colaborativo en la comunidad.
