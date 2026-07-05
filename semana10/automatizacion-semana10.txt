@@ -1,0 +1,11 @@
+Evento:
+Nuevo reporte comunitario registrado en el sistema.
+
+Acción:
+Enviar notificación automática a un canal de Telegram.
+
+Mensaje:
+“Nuevo reporte recibido. Revisar el sistema para seguimiento.”
+
+Información que NO debe enviarse:
+Nombres completos, documentos, direcciones, teléfonos, correos, contraseñas o tokens.
