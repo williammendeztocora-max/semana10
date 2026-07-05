@@ -1,0 +1,11 @@
+Tareas prioritarias:
+1. Registrar incidencias comunitarias.
+2. Enviar notificación automática a Telegram.
+
+¿Por qué son las más importantes?
+Porque permiten activar la participación y garantizar seguimiento inmediato.
+
+Definición de terminado:
+- La funcionalidad funciona correctamente.
+- Fue probada sin errores.
+- Está documentada y subida a GitHub.
